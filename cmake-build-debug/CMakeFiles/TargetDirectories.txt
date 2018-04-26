@@ -1,0 +1,3 @@
+/home/radek/WysDoTomTom/Segmentation_DoN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/radek/WysDoTomTom/Segmentation_DoN/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/radek/WysDoTomTom/Segmentation_DoN/cmake-build-debug/CMakeFiles/Segmentation_DoN.dir
